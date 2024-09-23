@@ -1,0 +1,12 @@
+It was really fun being able to solve a problem for someone I know, because it meant that I had to think more creatively
+and outside of the box than I would sometimes if I was following a prompt from class or from the textbook. It was really
+fun to see what worked and what wouldn’t, and treating my coding project like a job from a client instead of just a piece
+of homework. I definitely prefer working by myself instead of with a partner, but I saw that coming already because I
+prefer working alone on most things. It was nice being able to problem-solve and troubleshoot by myself than relying on
+another person for help, and getting to do every part of the process and seeing how it all fits together. Being able to
+see every part of the process was cool from a learning standpoint, because I realized just how important the planning is
+to the coding itself, and how much the algorithm and excel helped me out in the end. Next time, I would be more careful
+about looking at the calculation I chose for my problem, but I would also try to pick something more challenging, so
+that I could spend more time troubleshooting and learning new things. At first, I was not paying enough attention to
+my calculation in my algorithm, so I used the wrong one, but once I tested it out a few times, I was able to find the
+issue and fix it in the end.
